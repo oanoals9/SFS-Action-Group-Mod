@@ -18,5 +18,3 @@
 ## License
 
 MIT — see `LICENSE`.
-
-Not affiliated with Team Curiosity. Spaceflight Simulator is a trademark of its respective owners.
