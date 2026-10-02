@@ -15,4 +15,4 @@
 
 ## License
 
-GPL — see `LICENSE`.
+GPL-3.0 — see `LICENSE`.
