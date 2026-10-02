@@ -11,7 +11,6 @@
 1. Install [UITools](https://github.com/cucumber-sp/UITools) and
    [Custom Save Data](https://github.com/AstroTheRabbit/Custom-Save-Data-SFS) if you do not have them.
 2. Put `Action Group.dll` into the game's `Mods` folder
-   (next to `Spaceflight Simulator.exe`, e.g. `...\Steam\steamapps\common\Spaceflight Simulator\Mods`).
 3. Start the game. "Action Group" should appear in the mod list, and the window should show up
    in the build scene.
 
