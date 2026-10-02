@@ -6,20 +6,6 @@
 * In the build scene, clicking a part adds it to the selected slot. The list shows
   `#ordinal  part name  @(x, y)  ship#index` — text only, no part thumbnails, so identical
   parts can still be told apart.
-* Box selection works too.
-* In flight, pressing a number key uses every part of that slot once — exactly like clicking them.
-* **In flight each slot has a green/red indicator light** on its right: green while something in the
-  group is switched on, red otherwise (World scene only).
-* The window works in **both** the build scene and the world scene, is draggable, and remembers its
-  position (UITools).
-* The window lays itself out to fit its contents (the parts list gets as many lines as the window can
-  show, and the window grows when it has to), and its width/height/opacity are adjustable from the
-  game's **Mods Settings** window. Settings are saved in `Mods\Action Group\settings.txt`; a
-  **Debug** switch there decides whether the detailed console output is printed.
-* Action groups are saved **with your blueprint** and **with your world save**, so they survive
-  saving/loading and travelling to other players who also use the mod.
-* Stage separation and docking are handled: parts keep their groups on the piece they end up on.
-* No other dependencies than UITools.
 
 ## Installation
 
