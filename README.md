@@ -1,6 +1,6 @@
 ## Features
 
-* 10 fixed slots, bound to the number keys `1` `2` `3` `4` `5` `6` `7` `8` `9` `0` (top row only).
+* 10 fixed slots, bound to the number keys `1` `2` `3` `4` `5` `6` `7` `8` `9` `0`
 * Every slot can be renamed (23 characters maximum).
 * In the build scene, clicking a part adds it to the selected slot. The list shows
   `#ordinal part name @(x, y) ship#xxx`
