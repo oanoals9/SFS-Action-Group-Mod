@@ -13,10 +13,7 @@
    [Custom Save Data](https://github.com/AstroTheRabbit/Custom-Save-Data-SFS) if you do not have them.
 2. Put `Action Group.dll` into the game's `Mods` folder
    (next to `Spaceflight Simulator.exe`, e.g. `...\Steam\steamapps\common\Spaceflight Simulator\Mods`).
-   On startup the loader moves a loose DLL into `Mods\<name>\<name>.dll` (so it ends up as`r`n   `Mods\Action Group\Action Group.dll`), overwriting any copy already
-   there (it does this *before* it scans the folders), so dropping a new version into `Mods\` is enough
-   to upgrade. While the game is running that file is mapped and cannot be overwritten, so close the
-   game before replacing it.
+   On startup the loader moves a loose DLL into `Mods\<name>\<name>.dll` (so it ends up as`r`n   `Mods\Action Group\Action Group.dll`)
 3. Start the game. "Action Group" should appear in the mod list, and the window should show up
    in the build scene.
 
