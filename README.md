@@ -12,7 +12,6 @@
    [Custom Save Data](https://github.com/AstroTheRabbit/Custom-Save-Data-SFS) if you do not have them.
 2. Put `Action Group.dll` into the game's `Mods` folder
    (next to `Spaceflight Simulator.exe`, e.g. `...\Steam\steamapps\common\Spaceflight Simulator\Mods`).
-   On startup the loader moves a loose DLL into `Mods\<name>\<name>.dll`
 3. Start the game. "Action Group" should appear in the mod list, and the window should show up
    in the build scene.
 
