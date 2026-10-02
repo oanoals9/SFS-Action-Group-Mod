@@ -1,8 +1,7 @@
 ## Features
 
 * 10 fixed slots, bound to the number keys `1` `2` `3` `4` `5` `6` `7` `8` `9` `0` (top row only).
-* Every slot can be renamed (23 characters maximum; anything longer is cut off as you type, with no
-  character counter).
+* Every slot can be renamed (23 characters maximum).
 * In the build scene, clicking a part adds it to the selected slot. The list shows
   `#ordinal  part name  @(x, y)  ship#index` — text only, no part thumbnails, so identical
   parts can still be told apart.
