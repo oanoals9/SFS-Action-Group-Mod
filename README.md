@@ -15,4 +15,4 @@
 
 ## License
 
-MIT — see `LICENSE`.
+GPL — see `LICENSE`.
